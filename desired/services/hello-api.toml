@@ -5,6 +5,7 @@ ref = "main"
 domain = "hello.local"
 build_command = "./build.sh"
 binary = "/srv/hello-api/src/hello-api"
+listen = "tcp"
 
 [service.health_check]
 path = "/health"
