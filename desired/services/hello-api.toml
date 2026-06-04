@@ -5,5 +5,7 @@ ref = "main"
 domain = "hello.local"
 build_command = "./build.sh"
 binary = "/srv/hello-api/src/hello-api"
-health_check_path = "/health"
-health_check_port = 8080
+
+[service.health_check]
+path = "/health"
+interval = "10s"
