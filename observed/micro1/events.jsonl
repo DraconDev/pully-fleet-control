@@ -1,0 +1,136 @@
+{"at":"2026-06-04T20:58:38.561108773Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:58:39.526732541Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T20:58:39.540118695Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780606719"}
+{"at":"2026-06-04T20:58:40.308612418Z","kind":"service_deployed","message":"deployed hello-api version=1780606719"}
+{"at":"2026-06-04T20:58:55.308900422Z","kind":"health_failed","message":"health check failed 3 times for hello-api (version 1780606719), attempting rollback"}
+{"at":"2026-06-04T20:58:55.309034435Z","kind":"service_rolled_back","message":"no previous release to rollback hello-api. marking degraded"}
+{"at":"2026-06-04T20:58:55.309064453Z","kind":"health_failed","message":"health check failed for hello-api"}
+{"at":"2026-06-04T20:58:55.309086545Z","kind":"apply_failed","message":"apply failed for hello-api (unhealthy after deploy)"}
+{"at":"2026-06-04T20:59:26.140773381Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:59:27.107584625Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T20:59:27.114445289Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780606767"}
+{"at":"2026-06-04T20:59:27.729906464Z","kind":"service_deployed","message":"deployed hello-api version=1780606767"}
+{"at":"2026-06-04T20:59:42.940132809Z","kind":"health_failed","message":"health check failed 3 times for hello-api (version 1780606767), attempting rollback"}
+{"at":"2026-06-04T20:59:43.708074302Z","kind":"service_rolled_back","message":"rolled back hello-api from hello-api_1780606767 to hello-api_1780606719"}
+{"at":"2026-06-04T20:59:48.708228063Z","kind":"health_failed","message":"health check failed for hello-api after rollback: socket not found: /srv/hello-api/hello-api.sock"}
+{"at":"2026-06-04T20:59:48.708345086Z","kind":"health_failed","message":"health check failed for hello-api"}
+{"at":"2026-06-04T20:59:48.708370283Z","kind":"apply_failed","message":"apply failed for hello-api (unhealthy after deploy)"}
+{"at":"2026-06-04T21:00:19.709354325Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:00:20.722662027Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:00:20.734933528Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780606820"}
+{"at":"2026-06-04T21:00:21.409191955Z","kind":"service_deployed","message":"deployed hello-api version=1780606820"}
+{"at":"2026-06-04T21:00:36.409472844Z","kind":"health_failed","message":"health check failed 3 times for hello-api (version 1780606820), attempting rollback"}
+{"at":"2026-06-04T21:00:36.421100817Z","kind":"service_rolled_back","message":"rolled back hello-api from hello-api_1780606820 to hello-api_1780606719"}
+{"at":"2026-06-04T21:00:41.421280110Z","kind":"health_failed","message":"health check failed for hello-api after rollback: socket not found: /srv/hello-api/hello-api.sock"}
+{"at":"2026-06-04T21:00:41.421426768Z","kind":"health_failed","message":"health check failed for hello-api"}
+{"at":"2026-06-04T21:00:41.423437737Z","kind":"apply_failed","message":"apply failed for hello-api (unhealthy after deploy)"}
+{"at":"2026-06-04T21:01:08.025847250Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:01:09.113464288Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:01:09.120652261Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780606869"}
+{"at":"2026-06-04T21:01:09.712928100Z","kind":"service_deployed","message":"deployed hello-api version=1780606869"}
+{"at":"2026-06-04T21:01:24.713234831Z","kind":"health_failed","message":"health check failed 3 times for hello-api (version 1780606869), attempting rollback"}
+{"at":"2026-06-04T21:01:24.713316826Z","kind":"service_rolled_back","message":"no previous release to rollback hello-api. marking degraded"}
+{"at":"2026-06-04T21:01:24.713341813Z","kind":"health_failed","message":"health check failed for hello-api"}
+{"at":"2026-06-04T21:01:24.713381438Z","kind":"apply_failed","message":"apply failed for hello-api (unhealthy after deploy)"}
+{"at":"2026-06-04T21:01:55.523399889Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:01:56.503554109Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:01:56.511006313Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780606916"}
+{"at":"2026-06-04T21:01:57.128616849Z","kind":"service_deployed","message":"deployed hello-api version=1780606916"}
+{"at":"2026-06-04T21:02:12.366922196Z","kind":"health_failed","message":"health check failed 3 times for hello-api (version 1780606916), attempting rollback"}
+{"at":"2026-06-04T21:02:13.032336924Z","kind":"service_rolled_back","message":"rolled back hello-api from hello-api_1780606916 to hello-api_1780606869"}
+{"at":"2026-06-04T21:02:18.032491485Z","kind":"health_failed","message":"health check failed for hello-api after rollback: socket not found: /srv/hello-api/hello-api.sock"}
+{"at":"2026-06-04T21:02:18.032615500Z","kind":"health_failed","message":"health check failed for hello-api"}
+{"at":"2026-06-04T21:02:18.032641629Z","kind":"apply_failed","message":"apply failed for hello-api (unhealthy after deploy)"}
+{"at":"2026-06-04T21:02:48.970407371Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:02:49.942473748Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:02:49.955765660Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780606969"}
+{"at":"2026-06-04T21:02:50.609974544Z","kind":"service_deployed","message":"deployed hello-api version=1780606969"}
+{"at":"2026-06-04T21:03:05.610273056Z","kind":"health_failed","message":"health check failed 3 times for hello-api (version 1780606969), attempting rollback"}
+{"at":"2026-06-04T21:03:05.622357773Z","kind":"service_rolled_back","message":"rolled back hello-api from hello-api_1780606969 to hello-api_1780606869"}
+{"at":"2026-06-04T21:03:10.622523975Z","kind":"health_failed","message":"health check failed for hello-api after rollback: socket not found: /srv/hello-api/hello-api.sock"}
+{"at":"2026-06-04T21:03:10.622658078Z","kind":"health_failed","message":"health check failed for hello-api"}
+{"at":"2026-06-04T21:03:10.622688867Z","kind":"apply_failed","message":"apply failed for hello-api (unhealthy after deploy)"}
+{"at":"2026-06-04T21:03:41.378500381Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:03:42.348026280Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:03:42.355031055Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607022"}
+{"at":"2026-06-04T21:03:42.905582537Z","kind":"service_deployed","message":"deployed hello-api version=1780607022"}
+{"at":"2026-06-04T21:03:57.905874496Z","kind":"health_failed","message":"health check failed 3 times for hello-api (version 1780607022), attempting rollback"}
+{"at":"2026-06-04T21:03:57.919091947Z","kind":"service_rolled_back","message":"rolled back hello-api from hello-api_1780607022 to hello-api_1780606869"}
+{"at":"2026-06-04T21:04:02.919260468Z","kind":"health_failed","message":"health check failed for hello-api after rollback: socket not found: /srv/hello-api/hello-api.sock"}
+{"at":"2026-06-04T21:04:02.919389602Z","kind":"health_failed","message":"health check failed for hello-api"}
+{"at":"2026-06-04T21:04:02.919415702Z","kind":"apply_failed","message":"apply failed for hello-api (unhealthy after deploy)"}
+{"at":"2026-06-04T21:04:33.995350757Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:04:34.979528285Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:04:34.990306678Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607074"}
+{"at":"2026-06-04T21:04:35.706208743Z","kind":"service_deployed","message":"deployed hello-api version=1780607074"}
+{"at":"2026-06-04T21:04:50.706493737Z","kind":"health_failed","message":"health check failed 3 times for hello-api (version 1780607074), attempting rollback"}
+{"at":"2026-06-04T21:04:50.720465176Z","kind":"service_rolled_back","message":"rolled back hello-api from hello-api_1780607074 to hello-api_1780606869"}
+{"at":"2026-06-04T21:04:55.720621515Z","kind":"health_failed","message":"health check failed for hello-api after rollback: socket not found: /srv/hello-api/hello-api.sock"}
+{"at":"2026-06-04T21:04:55.720737996Z","kind":"health_failed","message":"health check failed for hello-api"}
+{"at":"2026-06-04T21:04:55.720762833Z","kind":"apply_failed","message":"apply failed for hello-api (unhealthy after deploy)"}
+{"at":"2026-06-04T21:05:12.431549459Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:05:13.421047523Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:05:13.428403054Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607113"}
+{"at":"2026-06-04T21:05:14.023464122Z","kind":"service_deployed","message":"deployed hello-api version=1780607113"}
+{"at":"2026-06-04T21:05:14.023723835Z","kind":"health_failed","message":"health check error for hello-api: health check failed: http://localhost/health: Connection Failed: Connect error: Connection refused (os error 111)"}
+{"at":"2026-06-04T21:05:14.023775041Z","kind":"apply_failed","message":"apply failed for hello-api due to health check error"}
+{"at":"2026-06-04T21:05:44.982147826Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:05:45.962922992Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:05:45.972106424Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607145"}
+{"at":"2026-06-04T21:05:46.598330779Z","kind":"service_deployed","message":"deployed hello-api version=1780607145"}
+{"at":"2026-06-04T21:05:46.598634644Z","kind":"health_failed","message":"health check error for hello-api: health check failed: http://localhost/health: Connection Failed: Connect error: Connection refused (os error 111)"}
+{"at":"2026-06-04T21:05:46.598722991Z","kind":"apply_failed","message":"apply failed for hello-api due to health check error"}
+{"at":"2026-06-04T21:06:21.905265044Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:06:23.222512682Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:06:23.238669Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607183"}
+{"at":"2026-06-04T21:06:23.910449069Z","kind":"service_deployed","message":"deployed hello-api version=1780607183"}
+{"at":"2026-06-04T21:06:23.910665970Z","kind":"health_failed","message":"health check error for hello-api: health check failed: http://localhost/health: Connection Failed: Connect error: Connection refused (os error 111)"}
+{"at":"2026-06-04T21:06:23.910716185Z","kind":"apply_failed","message":"apply failed for hello-api due to health check error"}
+{"at":"2026-06-04T21:06:54.753023483Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:06:55.760715451Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:06:55.767314989Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607215"}
+{"at":"2026-06-04T21:06:56.308687148Z","kind":"service_deployed","message":"deployed hello-api version=1780607215"}
+{"at":"2026-06-04T21:06:56.308861209Z","kind":"health_failed","message":"health check error for hello-api: health check failed: http://localhost/health: Connection Failed: Connect error: Connection refused (os error 111)"}
+{"at":"2026-06-04T21:06:56.308920100Z","kind":"apply_failed","message":"apply failed for hello-api due to health check error"}
+{"at":"2026-06-04T21:07:27.059979085Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:07:28.020865801Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:07:28.027559769Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607248"}
+{"at":"2026-06-04T21:07:28.621069475Z","kind":"service_deployed","message":"deployed hello-api version=1780607248"}
+{"at":"2026-06-04T21:07:28.621241782Z","kind":"health_failed","message":"health check error for hello-api: health check failed: http://localhost/health: Connection Failed: Connect error: Connection refused (os error 111)"}
+{"at":"2026-06-04T21:07:28.621281747Z","kind":"apply_failed","message":"apply failed for hello-api due to health check error"}
+{"at":"2026-06-04T21:07:59.431271147Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:08:00.457315117Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:08:00.463834634Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607280"}
+{"at":"2026-06-04T21:08:00.930132504Z","kind":"service_deployed","message":"deployed hello-api version=1780607280"}
+{"at":"2026-06-04T21:08:00.930349605Z","kind":"health_failed","message":"health check error for hello-api: health check failed: http://localhost/health: Connection Failed: Connect error: Connection refused (os error 111)"}
+{"at":"2026-06-04T21:08:00.930405892Z","kind":"apply_failed","message":"apply failed for hello-api due to health check error"}
+{"at":"2026-06-04T21:08:21.890462503Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:08:22.990075107Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:08:22.996817236Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607302"}
+{"at":"2026-06-04T21:08:23.607216827Z","kind":"service_deployed","message":"deployed hello-api version=1780607302"}
+{"at":"2026-06-04T21:08:23.607529430Z","kind":"health_failed","message":"health check error for hello-api: health check failed: http://localhost/health: Connection Failed: Connect error: Connection refused (os error 111)"}
+{"at":"2026-06-04T21:08:23.607588591Z","kind":"apply_failed","message":"apply failed for hello-api due to health check error"}
+{"at":"2026-06-04T21:08:54.379119816Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:08:55.347864857Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:08:55.354487510Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607335"}
+{"at":"2026-06-04T21:08:55.920807174Z","kind":"service_deployed","message":"deployed hello-api version=1780607335"}
+{"at":"2026-06-04T21:08:55.921068870Z","kind":"health_failed","message":"health check error for hello-api: health check failed: http://localhost/health: Connection Failed: Connect error: Connection refused (os error 111)"}
+{"at":"2026-06-04T21:08:55.921135135Z","kind":"apply_failed","message":"apply failed for hello-api due to health check error"}
+{"at":"2026-06-04T21:09:27.169961833Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:09:28.197049556Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:09:28.210170736Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607368"}
+{"at":"2026-06-04T21:09:28.821735982Z","kind":"service_deployed","message":"deployed hello-api version=1780607368"}
+{"at":"2026-06-04T21:09:28.821932885Z","kind":"health_failed","message":"health check error for hello-api: health check failed: http://localhost/health: Connection Failed: Connect error: Connection refused (os error 111)"}
+{"at":"2026-06-04T21:09:28.822560704Z","kind":"apply_failed","message":"apply failed for hello-api due to health check error"}
+{"at":"2026-06-04T21:09:59.554147189Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:10:00.537940792Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:10:00.544457504Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607400"}
+{"at":"2026-06-04T21:10:01.024359920Z","kind":"service_deployed","message":"deployed hello-api version=1780607400"}
+{"at":"2026-06-04T21:10:01.024532417Z","kind":"health_failed","message":"health check error for hello-api: health check failed: http://localhost/health: Connection Failed: Connect error: Connection refused (os error 111)"}
+{"at":"2026-06-04T21:10:01.024573574Z","kind":"apply_failed","message":"apply failed for hello-api due to health check error"}
+{"at":"2026-06-04T21:10:06.932503506Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T21:10:07.905436589Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T21:10:07.911796283Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780607407"}
+{"at":"2026-06-04T21:10:08.426609959Z","kind":"service_deployed","message":"deployed hello-api version=1780607407"}
+{"at":"2026-06-04T21:10:13.428097253Z","kind":"apply_succeeded","message":"apply succeeded for hello-api"}
+{"at":"2026-06-04T21:10:13.428144693Z","kind":"health_passed","message":"health check passed for hello-api"}
