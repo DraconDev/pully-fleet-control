@@ -1,6 +1,6 @@
 [service]
 name = "hello-api"
-repo = "git@github.com:DraconDev/hello-api.git"
+repo = "git@github.com:DraconDev/nonexistent-repo.git"
 ref = "main"
 domain = "hello.local"
 build_command = "./build.sh"
