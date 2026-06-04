@@ -3,9 +3,4 @@ id = "micro1"
 services = []
 enabled = true
 target_generation = 2
-
-[node.public_ip]
-Optional("34.123.11.74")
-
-[node.private_ip]
-Optional("10.0.0.1")
+public_ip = "141.147.94.186"
