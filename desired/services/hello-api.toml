@@ -1,0 +1,9 @@
+[service]
+name = "hello-api"
+repo = "git@github.com:DraconDev/hello-api.git"
+ref = "main"
+domain = "hello.local"
+build_command = "./build.sh"
+binary = "hello-api"
+health_check_path = "/health"
+health_check_port = 8080

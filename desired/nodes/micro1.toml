@@ -1,6 +1,6 @@
 [node]
 id = "micro1"
-services = []
+services = ["hello-api"]
 enabled = true
-target_generation = 2
+target_generation = 3
 public_ip = "141.147.94.186"
