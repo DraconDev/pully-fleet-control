@@ -1,0 +1,211 @@
+{"at":"2026-06-04T19:56:17.441639676Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T19:56:17.443841716Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T19:56:48.685694125Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T19:56:48.685781589Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T19:57:20.053976379Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T19:57:20.054088101Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T19:57:51.302229763Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T19:57:51.302321386Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T19:58:22.736953527Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T19:58:22.739075616Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T19:58:54.006491707Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T19:58:54.006588861Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T19:59:25.430402050Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T19:59:25.430490417Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T19:59:56.683719773Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T19:59:56.683839870Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:00:28.016015351Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:00:28.016123025Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:00:59.380637324Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:00:59.380729398Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:01:30.727234636Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:01:30.727326541Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:02:02.035965229Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:02:02.036087963Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:02:33.295392807Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:02:33.295486515Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:03:04.615465431Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:03:04.615556443Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:03:35.908862963Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:03:35.908955218Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:04:07.214850525Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:04:07.214938893Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:04:38.509157015Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:04:38.509247206Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:05:09.828342375Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:05:09.828433047Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:05:41.119611096Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:05:41.119699685Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:06:12.417642057Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:06:12.417731657Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:06:43.683190035Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:06:43.683277320Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:07:14.906248713Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:07:14.906340997Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:07:46.187415832Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:07:46.187524287Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:08:17.583418647Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:08:17.583511223Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:08:48.896200530Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:08:48.896304176Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:09:20.200883816Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:09:20.200975500Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:09:51.502174847Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:09:51.502263335Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:10:22.783191908Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:10:22.783280815Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:10:54.096116712Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:10:54.096208044Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:11:25.582257112Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:11:25.582348716Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:11:56.908632093Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:11:56.908721001Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:12:28.208150566Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:12:28.208247921Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:12:59.616271392Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:12:59.616362194Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:13:30.886632650Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:13:30.886721579Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:14:02.282388324Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:14:02.282477071Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:14:33.637815009Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:14:33.637944093Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:15:04.973308672Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:15:04.973403080Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:15:36.276564174Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:15:36.276653253Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:16:07.563025762Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:16:07.563170827Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:16:38.784110093Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:16:38.784201074Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:17:10.235247102Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:17:10.235364053Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:17:41.504225018Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:17:41.504313806Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:18:12.798969148Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:18:12.799080087Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:18:44.098086096Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:18:44.098177199Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:19:15.467438291Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:19:15.467531769Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:19:46.702769514Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:19:46.702875014Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:20:18.006027995Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:20:18.006118697Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:20:49.381646741Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:20:49.381736050Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:21:20.711312838Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:21:20.711404070Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:21:51.989120991Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:21:51.989217624Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:22:23.391426618Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:22:23.391515936Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:22:54.677570276Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:22:54.677662400Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:23:26.036437915Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:23:26.036530740Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:23:57.306225221Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:23:57.306314830Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:24:28.686689717Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:24:28.686778987Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:25:00.005173743Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:25:00.005272240Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:25:31.300591536Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:25:31.300681697Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:26:02.603082780Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:26:02.603171268Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:26:33.893264300Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:26:33.893353269Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:27:05.227650265Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:27:05.227737170Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:27:36.505116071Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:27:36.505207314Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:28:07.864696233Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:28:07.864787957Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:28:39.107643418Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:28:39.107763915Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:29:10.468301578Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:29:10.468442014Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:29:41.795508142Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:29:41.795597743Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:30:13.066513997Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:30:13.066606964Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:30:44.302946205Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:30:44.303061664Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:31:16.586032899Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:31:16.586126586Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:31:47.890965457Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:31:47.891081907Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:32:19.176913816Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:32:19.177036378Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:32:50.413721051Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:32:50.413830408Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:33:21.697032623Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:33:21.697127833Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:33:52.981154987Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:33:52.981243794Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:34:24.283128398Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:34:24.283220462Z","kind":"apply_failed","message":"git operation failed for hello-api: Permission denied (os error 13)"}
+{"at":"2026-06-04T20:34:55.609388226Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:34:56.399504763Z","kind":"apply_failed","message":"git operation failed for hello-api: git clone failed: Cloning into '/srv/hello-api/src'...\nERROR: Repository not found.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."}
+{"at":"2026-06-04T20:35:27.690724536Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:35:28.454056888Z","kind":"apply_failed","message":"git operation failed for hello-api: git clone failed: Cloning into '/srv/hello-api/src'...\nERROR: Repository not found.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."}
+{"at":"2026-06-04T20:35:59.675958086Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:36:00.433791950Z","kind":"apply_failed","message":"git operation failed for hello-api: git clone failed: Cloning into '/srv/hello-api/src'...\nERROR: Repository not found.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."}
+{"at":"2026-06-04T20:37:25.104361309Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:37:25.845032850Z","kind":"apply_failed","message":"git operation failed for hello-api: git clone failed: Cloning into '/srv/hello-api/src'...\nERROR: Repository not found.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."}
+{"at":"2026-06-04T20:37:57.109921142Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:37:57.859056821Z","kind":"apply_failed","message":"git operation failed for hello-api: git clone failed: Cloning into '/srv/hello-api/src'...\nERROR: Repository not found.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."}
+{"at":"2026-06-04T20:38:25.476458575Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:38:26.218582113Z","kind":"apply_failed","message":"git operation failed for hello-api: git clone failed: Cloning into '/srv/hello-api/src'...\nERROR: Repository not found.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."}
+{"at":"2026-06-04T20:38:57.486493034Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:38:58.239793729Z","kind":"apply_failed","message":"git operation failed for hello-api: git clone failed: Cloning into '/srv/hello-api/src'...\nERROR: Repository not found.\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."}
+{"at":"2026-06-04T20:39:23.837915250Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:39:24.909068598Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T20:39:24.927839666Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-04T20:39:24.927875164Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-04T20:39:56.196650383Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:39:57.152351585Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T20:39:57.164485203Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-04T20:39:57.164520941Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-04T20:40:28.386726407Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:40:29.378109393Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T20:40:29.390711547Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-04T20:40:29.390748839Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-04T20:40:31.873920907Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:40:32.945537483Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T20:40:32.953552170Z","kind":"build_failed","message":"build failed for hello-api: Binary not found at hello-api for service hello-api (build may have failed or wrong path)"}
+{"at":"2026-06-04T20:40:32.953602786Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-04T20:41:04.190680727Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:41:05.153331909Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T20:41:05.160441503Z","kind":"build_failed","message":"build failed for hello-api: Binary not found at hello-api for service hello-api (build may have failed or wrong path)"}
+{"at":"2026-06-04T20:41:05.160498371Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-04T20:41:36.465405201Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:41:37.460755810Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T20:41:37.467610691Z","kind":"build_failed","message":"build failed for hello-api: Binary not found at hello-api for service hello-api (build may have failed or wrong path)"}
+{"at":"2026-06-04T20:41:37.467664783Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-04T20:41:56.729523348Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:41:57.687210920Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T20:41:57.693790019Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780605717"}
+{"at":"2026-06-04T20:41:57.693924032Z","kind":"service_deploy_failed","message":"deploy failed for hello-api: failed to write unit file: /etc/systemd/system/hello-api.service"}
+{"at":"2026-06-04T20:41:57.693946405Z","kind":"apply_failed","message":"apply failed for hello-api due to deploy failure"}
+{"at":"2026-06-04T20:42:28.985447402Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:42:29.940624526Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T20:42:29.947605487Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780605749"}
+{"at":"2026-06-04T20:42:29.947760782Z","kind":"service_deploy_failed","message":"deploy failed for hello-api: failed to write unit file: /etc/systemd/system/hello-api.service"}
+{"at":"2026-06-04T20:42:29.947785798Z","kind":"apply_failed","message":"apply failed for hello-api due to deploy failure"}
+{"at":"2026-06-04T20:43:01.191341009Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:43:02.136797787Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T20:43:02.143531479Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780605782"}
+{"at":"2026-06-04T20:43:02.143687074Z","kind":"service_deploy_failed","message":"deploy failed for hello-api: failed to write unit file: /etc/systemd/system/hello-api.service"}
+{"at":"2026-06-04T20:43:02.143713163Z","kind":"apply_failed","message":"apply failed for hello-api due to deploy failure"}
+{"at":"2026-06-04T20:43:55.194094102Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:43:55.195419222Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: fatal: detected dubious ownership in repository at '/srv/hello-api/src'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /srv/hello-api/src"}
+{"at":"2026-06-04T20:44:26.587376650Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:44:26.588778284Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: fatal: detected dubious ownership in repository at '/srv/hello-api/src'\nTo add an exception for this directory, call:\n\n\tgit config --global --add safe.directory /srv/hello-api/src"}
+{"at":"2026-06-04T20:44:58.675527163Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-04T20:44:59.674966001Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-04T20:44:59.681436504Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780605899"}
+{"at":"2026-06-04T20:45:00.301625540Z","kind":"service_deployed","message":"deployed hello-api version=1780605899"}
+{"at":"2026-06-04T20:45:00.301680875Z","kind":"apply_succeeded","message":"apply succeeded for hello-api"}
+{"at":"2026-06-04T20:45:00.301713487Z","kind":"health_passed","message":"health check passed for hello-api"}
