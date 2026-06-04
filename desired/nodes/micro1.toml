@@ -1,0 +1,5 @@
+[node]
+id = "micro1"
+services = []
+enabled = true
+target_generation = 1

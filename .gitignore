@@ -1,0 +1,3 @@
+# Ignore observed state - each node writes its own
+observed/*/status.toml
+observed/*/inventory.toml
