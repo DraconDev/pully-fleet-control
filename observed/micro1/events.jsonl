@@ -2918,3 +2918,11 @@
 {"at":"2026-06-05T02:00:04.703740389Z","kind":"service_deployed","message":"deployed hello-api version=1780624804"}
 {"at":"2026-06-05T02:00:09.704348566Z","kind":"apply_succeeded","message":"apply succeeded for hello-api"}
 {"at":"2026-06-05T02:00:09.704429469Z","kind":"health_passed","message":"health check passed for hello-api"}
+{"at":"2026-06-05T02:00:40.744685016Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T02:00:56.985479952Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: git@github.com: Permission denied (publickey).\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists."}
+{"at":"2026-06-05T02:01:27.698536791Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T02:01:28.665097218Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-05T02:01:28.671511995Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780624888"}
+{"at":"2026-06-05T02:01:29.133180884Z","kind":"service_deployed","message":"deployed hello-api version=1780624888"}
+{"at":"2026-06-05T02:01:34.195134633Z","kind":"apply_succeeded","message":"apply succeeded for hello-api"}
+{"at":"2026-06-05T02:01:34.195187763Z","kind":"health_passed","message":"health check passed for hello-api"}
