@@ -3,7 +3,7 @@ name = "hello-api"
 repo = "git@github.com:DraconDev/hello-api.git"
 ref = "main"
 domain = "hello.local"
-build_command = "./build.sh"
+build_command = "./build_v2.sh"
 binary = "/srv/hello-api/src/hello-api"
 listen = "tcp"
 
