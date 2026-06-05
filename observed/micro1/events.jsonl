@@ -10234,3 +10234,9 @@
 {"at":"2026-06-05T14:50:12.094288889Z","kind":"service_deployed","message":"deployed hello-api version=1780671011"}
 {"at":"2026-06-05T14:50:17.094944252Z","kind":"apply_succeeded","message":"apply succeeded for hello-api"}
 {"at":"2026-06-05T14:50:17.095023411Z","kind":"health_passed","message":"health check passed for hello-api"}
+{"at":"2026-06-05T14:50:48.212677454Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T14:50:49.168195968Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-05T14:50:49.175104091Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780671049"}
+{"at":"2026-06-05T14:50:49.713798634Z","kind":"service_deployed","message":"deployed hello-api version=1780671049"}
+{"at":"2026-06-05T14:50:54.714384231Z","kind":"apply_succeeded","message":"apply succeeded for hello-api"}
+{"at":"2026-06-05T14:50:54.714450266Z","kind":"health_passed","message":"health check passed for hello-api"}
