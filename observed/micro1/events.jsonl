@@ -15060,3 +15060,25 @@
 {"at":"2026-06-06T01:01:58.828295077Z","kind":"service_deployed","message":"deployed hello-api version=1780707718"}
 {"at":"2026-06-06T01:02:03.828982377Z","kind":"apply_succeeded","message":"apply succeeded for hello-api"}
 {"at":"2026-06-06T01:02:03.829058812Z","kind":"health_passed","message":"health check passed for hello-api"}
+{"at":"2026-06-06T01:02:14.271626095Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:02:15.398047775Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:02:15.402892039Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-06T01:02:15.402947474Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-06T01:02:36.245064920Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:02:37.200839259Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:02:37.205687120Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-06T01:02:37.205732947Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-06T01:02:46.688322575Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:02:47.861486645Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:02:47.865817877Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-06T01:02:47.865880646Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-06T01:03:08.504034033Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:03:09.461311581Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:03:09.510252081Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-06T01:03:09.510298129Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-06T01:03:19.095494577Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:03:20.259757001Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:03:20.266225250Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780707800"}
+{"at":"2026-06-06T01:03:20.795720748Z","kind":"service_deployed","message":"deployed hello-api version=1780707800"}
+{"at":"2026-06-06T01:03:25.796968655Z","kind":"apply_succeeded","message":"apply succeeded for hello-api"}
+{"at":"2026-06-06T01:03:25.797049468Z","kind":"health_passed","message":"health check passed for hello-api"}
