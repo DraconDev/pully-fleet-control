@@ -9,4 +9,4 @@ listen = "tcp"
 
 [service.health_check]
 path = "/health"
-interval = "10s"
+interval = "5s"
