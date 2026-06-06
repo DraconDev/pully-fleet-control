@@ -1,9 +1,9 @@
 [service]
 name = "hello-api"
 repo = "git@github.com:DraconDev/hello-api.git"
-ref = "main"
+ref = "test-v3"
 domain = "hello.local"
-build_command = "./build_v2.sh"
+build_command = "./build_v3.sh"
 binary = "/srv/hello-api/src/hello-api"
 listen = "tcp"
 
