@@ -1,12 +1,12 @@
 [service]
 name = "hello-api"
 repo = "git@github.com:DraconDev/hello-api.git"
-ref = "test-v3"
+ref = "main"
 domain = "hello.local"
-build_command = "./build_v3.sh"
+build_command = "./build_v2.sh"
 binary = "/srv/hello-api/src/hello-api"
 listen = "tcp"
 
 [service.health_check]
 path = "/health"
-interval = "5s"
+interval = "10s"
