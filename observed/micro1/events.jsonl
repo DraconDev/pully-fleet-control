@@ -14302,3 +14302,707 @@
 {"at":"2026-06-05T21:55:23.810837514Z","kind":"service_deployed","message":"deployed hello-api version=1780696523"}
 {"at":"2026-06-05T21:55:28.811476401Z","kind":"apply_succeeded","message":"apply succeeded for hello-api"}
 {"at":"2026-06-05T21:55:28.811542015Z","kind":"health_passed","message":"health check passed for hello-api"}
+{"at":"2026-06-05T21:55:59.889525787Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T21:56:01.625973896Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-05T21:56:01.630622329Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-05T21:56:01.630665211Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-05T21:56:33.301688373Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T21:56:34.604094747Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-05T21:56:34.613646065Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-05T21:56:34.613693836Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-05T21:57:06.465736782Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T21:57:07.426458629Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-05T21:57:07.430880062Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-05T21:57:07.430920599Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-05T21:57:38.662694284Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T21:57:39.615346892Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-05T21:57:39.621178906Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-05T21:57:39.621215225Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-05T21:58:11.381665312Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T21:58:12.625971956Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: From github.com:DraconDev/hello-api\n   4cf2efd..e0f804b  main       -> origin/main\nerror: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T21:58:43.887818698Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T21:58:45.005506093Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T21:59:16.287030992Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T21:59:17.419822872Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T21:59:32.069157531Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T21:59:33.217604559Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:00:04.494356521Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:00:05.704857605Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:00:16.569013350Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:00:17.705148055Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:00:48.983566852Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:00:50.102404430Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:01:21.385741906Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:01:22.501402088Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:01:24.753381726Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:01:25.901762200Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:01:57.178612385Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:01:58.304257175Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:02:29.589643599Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:02:30.733044083Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:03:02.160779477Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:03:03.303308032Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:03:34.582107550Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:03:35.706614357Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:04:06.987282416Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:04:08.197759537Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:04:39.479013815Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:04:40.604115407Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:05:11.901368538Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:05:13.039900687Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:05:44.292592991Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:05:45.415232723Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:06:16.674265615Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:06:17.805556868Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:06:49.100368028Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:06:50.203535185Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:07:21.489385237Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:07:22.648563590Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:07:53.889289412Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:07:55.016797432Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:08:26.275184255Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:08:27.403857603Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:08:58.677723733Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:08:59.802895430Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:09:31.090480275Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:09:32.222202118Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:10:03.498287501Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:10:04.630839546Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:10:35.980764386Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:10:37.103265909Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:11:08.411918582Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:11:09.525791335Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:11:40.795695406Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:11:41.902287010Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:12:13.173852390Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:12:14.304044926Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:12:45.623210193Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:12:46.740255980Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:13:17.990605721Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:13:19.119346078Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:13:50.409635586Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:13:51.535456977Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:14:22.854048624Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:14:24.003963011Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:14:55.312295494Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:14:56.420464605Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:15:01.879801886Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:15:03.026568252Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:15:34.296199567Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:15:35.455914031Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:15:44.173593118Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:15:45.302209060Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:16:16.599098437Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:16:17.702923586Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:16:48.986693262Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:16:50.122734702Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:17:21.403260818Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:17:22.522050351Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:17:53.772890361Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:17:54.905198224Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:18:26.172887247Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:18:27.303668966Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:18:58.574319576Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:18:59.708625243Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:19:30.992765929Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:19:32.207226571Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:20:03.872207228Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:20:05.005258723Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:20:36.293322320Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:20:37.499578884Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:21:08.776935268Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:21:09.903772251Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:21:41.183396301Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:21:42.308819546Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:22:13.590913964Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:22:14.710722007Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:22:45.969558322Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:22:47.102372727Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:23:18.388580981Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:23:19.515256067Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:23:50.791498284Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:23:51.903496457Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:24:23.195381350Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:24:24.400893666Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:24:55.690104727Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:24:56.814707899Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:25:28.086523989Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:25:29.201538274Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:26:00.500722534Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:26:01.607716419Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:26:32.879262569Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:26:34.002655691Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:27:05.286374793Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:27:06.414455674Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:27:37.685859755Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:27:38.809152878Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:28:10.176754945Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:28:11.309669581Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:28:42.568819910Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:28:43.703050585Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:29:14.975053259Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:29:16.102327453Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:29:47.369544008Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:29:48.501910323Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:30:19.784518720Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:30:20.914708913Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:30:52.183437808Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:30:53.306434789Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:31:24.614189908Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:31:25.737735323Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:31:56.982365529Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:31:58.102577928Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:32:29.389963195Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:32:30.530812303Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:33:01.802156479Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:33:02.919980277Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:33:34.221495196Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:33:35.325694267Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:34:06.577638215Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:34:07.705683654Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:34:39.003886094Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:34:40.143608965Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:35:11.371285185Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:35:12.504727187Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:35:43.783610714Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:35:44.913442900Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:36:16.169329207Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:36:17.322913129Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:36:48.590869643Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:36:49.702427892Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:37:20.969393552Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:37:22.105218810Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:37:53.369328367Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:37:54.503207173Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:38:25.753118876Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:38:26.906690447Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:38:58.191613605Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:38:59.303788425Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:39:30.659461496Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:39:31.803171429Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:40:03.083744021Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:40:04.205191672Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:40:35.478612240Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:40:36.600750075Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:41:07.887317770Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:41:09.009793705Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:41:40.277171995Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:41:41.407935730Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:42:12.669939443Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:42:13.804468972Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:42:45.082021243Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:42:46.203215558Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:42:59.017269265Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:43:00.121840180Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:43:31.386763725Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:43:32.526721265Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:44:03.773596545Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:44:04.905389007Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:44:36.172761942Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:44:37.306244451Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:45:08.575407606Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:45:09.705584881Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:45:40.975603576Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:45:42.107374633Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:46:13.380878254Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:46:14.516746703Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:46:45.869231497Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:46:47.002060076Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:47:18.278001874Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:47:19.401864496Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:47:50.667788961Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:47:51.816384175Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:48:23.087871693Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:48:24.203102267Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:48:55.469126795Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:48:56.603575920Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:49:27.982965190Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:49:29.101583576Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:50:00.370885101Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:50:01.502218736Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:50:32.772122879Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:50:33.904535708Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:51:05.164589143Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:51:06.301724174Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:51:37.573702540Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:51:38.703468128Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:52:09.970684521Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:52:11.132255491Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:52:42.370554529Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:52:43.503617715Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:53:14.786314939Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:53:15.903917800Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:53:47.180417582Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:53:48.302091289Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:54:19.569925017Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:54:20.705275059Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:54:51.983672023Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:54:53.101884881Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:55:24.381974613Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:55:25.503299465Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:55:56.755728017Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:55:57.904522186Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:56:29.178920957Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:56:30.308781192Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:57:01.556627181Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:57:02.701640954Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:57:33.985714444Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:57:35.102120319Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:58:06.377940835Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:58:07.507117273Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:58:38.785750765Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:58:39.906854202Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:59:11.207957860Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:59:12.310033303Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T22:59:43.576525092Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T22:59:44.705547274Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:00:15.981064113Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:00:17.104952190Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:00:48.380271215Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:00:49.511654071Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:01:20.786179071Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:01:21.931343933Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:01:53.199676674Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:01:54.313603930Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:02:25.581095729Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:02:26.702220602Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:02:57.988068590Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:02:59.105774900Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:03:30.391183639Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:03:31.521945658Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:04:02.786464163Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:04:03.912942486Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:04:35.252829174Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:04:36.403210261Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:05:07.670779153Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:05:08.802528771Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:05:40.091689698Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:05:41.245661452Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:06:12.586262098Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:06:13.703488408Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:06:44.982216221Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:06:46.103495131Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:07:17.385085374Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:07:18.504157273Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:07:49.781761427Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:07:50.901554592Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:08:22.177875680Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:08:23.304292895Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:08:54.580601073Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:08:55.703160535Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:09:26.982005056Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:09:28.105914619Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:09:59.474873721Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:10:00.619653931Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:10:31.886566407Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:10:33.016268326Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:11:04.277356045Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:11:05.408514708Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:11:36.685648161Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:11:37.804689948Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:12:09.081146749Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:12:10.201898507Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:12:41.507510907Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:12:42.613511365Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:13:13.925305288Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:13:15.044327985Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:13:46.377955906Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:13:47.508652817Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:14:18.781671897Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:14:19.910244536Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:14:51.182777762Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:14:52.300555885Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:15:23.588161913Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:15:24.704156078Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:15:55.978510781Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:15:57.105272755Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:16:28.483587798Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:16:29.601610526Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:17:00.898379698Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:17:02.005194750Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:17:33.282383120Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:17:34.403198909Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:18:05.677900572Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:18:06.802543154Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:18:38.086393931Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:18:39.211545080Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:19:10.510864506Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:19:11.696607133Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:19:42.972977644Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:19:44.114371948Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:20:15.370582602Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:20:16.504252050Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:20:47.771238473Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:20:48.903550468Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:21:20.184229455Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:21:21.303885737Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:21:52.596646450Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:21:53.700277979Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:22:24.965568007Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:22:26.109868618Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:22:57.362015035Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:22:58.502550454Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:23:29.774654574Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:23:30.910315678Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:24:02.168871505Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:24:03.301693566Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:24:34.565428821Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:24:35.719465655Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:25:06.986903360Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:25:08.105977785Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:25:39.465131322Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:25:40.621409682Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:26:11.877894886Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:26:13.006407757Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:26:44.274653730Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:26:45.408156700Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:27:16.678117305Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:27:17.805080380Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:27:49.095767020Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:27:50.201339344Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:28:21.457884074Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:28:22.635849628Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:28:53.892622723Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:28:55.029599154Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:29:26.277608955Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:29:27.403129140Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:29:58.715172263Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:29:59.812537442Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:30:31.061957202Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:30:32.219386494Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:31:03.487760077Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:31:04.635937160Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:31:35.907585223Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:31:37.016718536Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:32:08.283489962Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:32:09.402514749Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:32:40.670339315Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:32:41.803573291Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:33:13.099601023Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:33:14.214020950Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:33:45.496675533Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:33:46.610110786Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:34:17.870007349Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:34:19.009912509Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:34:50.269233948Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:34:51.403054975Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:35:22.674779106Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:35:23.804194738Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:35:55.083957628Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:35:56.206966476Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:36:27.481736874Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:36:28.601561608Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:36:59.882771039Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:37:01.006836059Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:37:32.268743708Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:37:33.435513561Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:38:04.672341932Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:38:05.804300631Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:38:37.080472134Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:38:38.202734889Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:39:09.466793698Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:39:10.601732578Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:39:41.865623625Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:39:43.002909119Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:40:14.296703971Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:40:15.422137772Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:40:46.666049220Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:40:47.804803515Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:41:19.075060589Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:41:20.204141727Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:41:51.491257033Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:41:52.606115750Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:42:23.882357716Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:42:25.003815425Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:42:56.265500646Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:42:57.405020875Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:43:28.679586559Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:43:29.832784703Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:44:01.096032250Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:44:02.232978080Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:44:33.466682264Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:44:34.605785741Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:45:05.879259658Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:45:07.015376966Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:45:38.283762074Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:45:39.403620638Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:46:10.689310748Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:46:11.803456805Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:46:43.161669545Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:46:44.304945174Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:47:15.591223128Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:47:16.700609932Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:47:47.988053270Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:47:49.102881308Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:48:20.374092217Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:48:21.502882174Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:48:52.794942015Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:48:53.902117379Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:49:25.166873455Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:49:26.310885777Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:49:57.583377316Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:49:58.723627Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:50:30.001499846Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:50:31.131274494Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:51:02.366770753Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:51:03.502634691Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:51:34.772114870Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:51:35.902416654Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:52:07.161460169Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:52:08.305342261Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:52:39.650369374Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:52:40.801165346Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:53:12.086022938Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:53:13.204369826Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:53:44.484664711Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:53:45.604873095Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:54:16.878115054Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:54:18.003761976Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:54:49.270115037Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:54:50.402711249Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:55:21.672888131Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:55:22.811022819Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:55:54.073131435Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:55:55.202251998Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:56:26.483973881Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:56:27.604831846Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:56:58.881588284Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:57:00.001418793Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:57:31.280185424Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:57:32.401330912Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:58:03.689093623Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:58:04.803395634Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:58:36.154340512Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:58:37.307097163Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:59:08.587704082Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:59:09.704286683Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-05T23:59:40.994960270Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-05T23:59:42.113711176Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:00:13.378182826Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:00:14.502031878Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:00:45.797612074Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:00:46.904213824Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:01:18.195420812Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:01:19.336016709Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:01:50.577097945Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:01:51.702320009Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:02:22.991314492Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:02:24.119294738Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:02:55.369349766Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:02:56.501105078Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:03:27.796823522Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:03:28.915629725Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:04:00.178239956Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:04:01.303924280Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:04:32.598728365Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:04:33.719879822Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:05:04.988478045Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:05:06.103517055Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:05:37.386925787Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:05:38.515531246Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:06:09.769792283Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:06:10.903643467Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:06:42.169207740Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:06:43.304662650Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:07:14.556758982Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:07:15.718513628Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:07:46.982212834Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:07:48.118563371Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:08:19.381614713Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:08:20.502525829Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:08:51.772824378Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:08:52.904579039Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:09:24.207122206Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:09:25.318550160Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:09:56.571066468Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:09:57.713601774Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:10:28.979436761Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:10:30.132815455Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:11:01.377793294Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:11:02.510660164Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:11:33.784682578Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:11:34.904423780Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:12:06.166240457Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:12:07.312105712Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:12:38.594005365Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:12:39.709400216Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:13:10.991946142Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:13:12.111735266Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:13:43.378315349Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:13:44.507701777Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:14:15.821385222Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:14:16.925855617Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:14:48.183604286Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:14:49.306289576Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:15:20.590484785Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:15:21.726642189Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:15:52.975807837Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:15:54.111858953Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:16:25.390242688Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:16:26.511691672Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:16:57.855747304Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:16:59.008328884Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:17:30.303644264Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:17:31.412150715Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:18:02.675166803Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:18:03.813494828Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:18:35.061118901Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:18:36.211843967Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:19:07.483066798Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:19:08.618603936Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:19:39.960556026Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:19:41.107925226Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:20:12.386040728Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:20:13.523412748Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:20:44.779485638Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:20:45.905887588Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:21:17.195939811Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:21:18.304058243Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:21:49.592601785Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:21:50.706237267Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:22:21.974842235Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:22:23.136258820Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:22:54.482723147Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:22:55.629668269Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:23:26.885228271Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:23:28.014185498Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:23:59.285006635Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:24:00.404034562Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:24:31.839011678Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:24:33.011270971Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:25:04.285561915Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:25:05.407094829Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:25:36.685775625Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:25:37.803281264Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:26:09.106083977Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:26:10.205239401Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:26:41.477555862Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:26:42.600973657Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:27:13.881782856Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:27:15.004753350Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:27:46.279344102Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:27:47.408523052Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:28:18.669379148Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:28:19.812722861Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:28:51.060128205Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:28:52.209929620Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:29:23.485426174Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:29:24.602007849Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:29:55.891392545Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:29:56.999411944Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:30:28.275033338Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:30:29.404972556Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:31:00.683687044Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:31:01.803738783Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:31:33.145199948Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:31:34.316924807Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:32:05.586027041Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:32:06.704625999Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:32:37.974786187Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:32:39.108056861Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:33:10.378525778Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:33:11.504219607Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:33:42.778297583Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:33:43.901823244Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:34:15.175968184Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:34:16.304822270Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:34:47.577691797Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:34:48.742682843Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:35:19.985246939Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:35:21.106883018Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:35:52.360178838Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:35:53.503875908Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:36:24.786875234Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:36:25.903234132Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:36:57.190794649Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:36:58.313602842Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:37:29.670860457Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:37:30.805246101Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:38:02.070564845Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:38:03.206669674Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:38:34.503472082Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:38:35.615365055Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:39:06.865555745Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:39:08.007458787Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:39:39.275843791Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:39:40.405926122Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:40:11.666980651Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:40:12.808123735Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:40:44.086672189Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:40:45.204820833Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:41:16.479240758Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:41:17.604356849Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:41:48.861946042Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:41:50.003727901Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:42:21.264489644Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:42:22.404568711Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:42:53.701088076Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:42:54.823490399Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:43:26.163667160Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:43:27.302130608Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:43:58.571792609Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:43:59.705326241Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:44:30.987182955Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:44:32.111314761Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:45:03.373175194Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:45:04.503609115Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:45:35.777525881Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:45:36.915706061Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:46:08.186031801Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:46:09.310835520Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:46:40.598152769Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:46:41.716498287Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:47:12.981513368Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:47:14.106836150Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:47:45.420436469Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:47:46.527294704Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:48:17.774563186Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:48:18.901451462Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:48:50.175775720Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:48:51.304122457Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:49:22.594698564Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:49:23.797833648Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:49:55.073685997Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:49:56.203484314Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:50:27.513702664Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:50:28.631421514Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:50:59.870829574Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:51:01.001397049Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:51:32.296801152Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:51:33.403415725Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:52:04.699424027Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:52:05.816123450Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:52:37.167898943Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:52:38.306464423Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:53:09.574216408Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:53:10.701592517Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:53:41.977495556Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:53:43.104147224Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:54:14.370572650Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:54:15.503395750Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:54:46.771595660Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:54:47.904101736Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:55:19.175098269Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:55:20.311048057Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:55:51.583051995Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:55:52.705620745Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:56:23.990251431Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:56:25.129219311Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:56:39.855426195Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:56:41.001131930Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:56:56.365378170Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:56:57.517453504Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:57:30.348011527Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:57:31.616166853Z","kind":"apply_failed","message":"git operation failed for hello-api: git pull failed: error: Your local changes to the following files would be overwritten by merge:\n\tbuild_v2.sh\nPlease commit your changes or stash them before you merge.\nAborting"}
+{"at":"2026-06-06T00:58:01.641172121Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:58:02.602046980Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T00:58:02.614080518Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780707482"}
+{"at":"2026-06-06T00:58:03.012444700Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T00:58:03.314908827Z","kind":"service_deployed","message":"deployed hello-api version=1780707482"}
+{"at":"2026-06-06T00:58:04.016734813Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T00:58:04.023432498Z","kind":"build_succeeded","message":"build succeeded for hello-api version=1780707484"}
+{"at":"2026-06-06T00:58:04.522221716Z","kind":"service_deployed","message":"deployed hello-api version=1780707484"}
+{"at":"2026-06-06T00:58:08.315542630Z","kind":"apply_succeeded","message":"apply succeeded for hello-api"}
+{"at":"2026-06-06T00:58:08.315598868Z","kind":"health_passed","message":"health check passed for hello-api"}
+{"at":"2026-06-06T00:58:09.523010470Z","kind":"apply_succeeded","message":"apply succeeded for hello-api"}
+{"at":"2026-06-06T00:58:09.523073068Z","kind":"health_passed","message":"health check passed for hello-api"}
