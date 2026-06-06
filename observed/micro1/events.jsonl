@@ -15640,3 +15640,72 @@
 {"at":"2026-06-06T01:33:36.595084383Z","kind":"service_deployed","message":"deployed hello-api version=1780709615"}
 {"at":"2026-06-06T01:33:41.595683965Z","kind":"apply_succeeded","message":"apply succeeded for hello-api"}
 {"at":"2026-06-06T01:33:41.595746924Z","kind":"health_passed","message":"health check passed for hello-api"}
+{"at":"2026-06-06T01:34:14.013285484Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:34:14.969854267Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:34:14.974343870Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-06T01:34:14.974382915Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-06T01:34:22.791217767Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:34:24.080645965Z","kind":"apply_failed","message":"git operation failed for hello-api: git checkout ref failed: error: pathspec 'test-v3' did not match any file(s) known to git"}
+{"at":"2026-06-06T01:34:46.262114746Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:34:47.229630167Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:34:47.234280503Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-06T01:34:47.234316962Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-06T01:34:55.389076471Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:34:56.544553401Z","kind":"apply_failed","message":"git operation failed for hello-api: git checkout ref failed: error: pathspec 'test-v3' did not match any file(s) known to git"}
+{"at":"2026-06-06T01:35:18.520955429Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:35:19.482017971Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:35:19.490420003Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-06T01:35:19.490459709Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-06T01:35:21.995606971Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:35:23.157643826Z","kind":"apply_failed","message":"git operation failed for hello-api: git checkout ref failed: error: pathspec 'test-v3' did not match any file(s) known to git"}
+{"at":"2026-06-06T01:35:27.797886030Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:35:29.042224176Z","kind":"apply_failed","message":"git operation failed for hello-api: git checkout ref failed: error: pathspec 'test-v3' did not match any file(s) known to git"}
+{"at":"2026-06-06T01:35:50.788034527Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:35:51.743018863Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:35:51.747411211Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-06T01:35:51.747446518Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-06T01:36:07.055809351Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:36:08.169441339Z","kind":"apply_failed","message":"git operation failed for hello-api: git checkout -b ref from remote failed: fatal: 'origin/test-v3' is not a commit and a branch 'test-v3' cannot be created from it"}
+{"at":"2026-06-06T01:36:23.023954278Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:36:23.973205391Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:36:23.977630452Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-06T01:36:23.977666571Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-06T01:36:39.472372531Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:36:40.573163286Z","kind":"apply_failed","message":"git operation failed for hello-api: git checkout -b ref from remote failed: fatal: 'origin/test-v3' is not a commit and a branch 'test-v3' cannot be created from it"}
+{"at":"2026-06-06T01:36:55.272079851Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:36:56.237463600Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:36:56.241955628Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-06T01:36:56.242019027Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-06T01:37:11.857337443Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:37:12.962540821Z","kind":"apply_failed","message":"git operation failed for hello-api: git checkout -b ref from remote failed: fatal: 'origin/test-v3' is not a commit and a branch 'test-v3' cannot be created from it"}
+{"at":"2026-06-06T01:37:27.471679934Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:37:28.429357121Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:37:28.434104423Z","kind":"build_failed","message":"build failed for hello-api: build failed for service hello-api"}
+{"at":"2026-06-06T01:37:28.434138717Z","kind":"apply_failed","message":"apply failed for hello-api due to build failure"}
+{"at":"2026-06-06T01:37:42.574145651Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:37:45.266641465Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:39:33.863294424Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:39:36.139886725Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:41:34.507173145Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:41:36.457210129Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:44:49.762124888Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:44:51.661338071Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T01:45:59.750572222Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T01:46:01.666573882Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T04:00:41.246704349Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T04:00:43.299379440Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T04:00:45.220297270Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T04:01:36.365341878Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T04:01:38.305248385Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T04:02:43.107461812Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T04:02:45.064895635Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T04:03:30.160380690Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T04:03:32.076154958Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T04:04:53.692095295Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T04:04:55.633482298Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T04:06:00.149373719Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T04:06:02.082631812Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T06:19:23.446590557Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T06:19:25.381411858Z","kind":"build_started","message":"build started for hello-api"}
+{"at":"2026-06-06T08:37:05.566082677Z","kind":"apply_started","message":"reconcile started for hello-api"}
+{"at":"2026-06-06T08:37:07.464457248Z","kind":"build_started","message":"build started for hello-api"}
